@@ -2,5 +2,5 @@
 
 
 ## Screenshoots
-![alt text](https://github.com/caturandi-labs/breact-hook-githubfinder/blob/master/ss/1.png "SS 1")
+![alt text](https://github.com/caturandi-labs/react-hook-githubfinder/blob/master/ss/1.png "SS 1")
 ![alt text](https://github.com/caturandi-labs/react-hook-githubfinder/blob/master/ss/2.png "SS 2")
